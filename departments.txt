@@ -1,0 +1,15 @@
+Cardiology|30|1|Dr. Arjun Sharma|3rd Floor|ext-301
+Neurology|25|0|Dr. Kavita Rao|4th Floor|ext-401
+Orthopedics|35|0|Dr. Vikram Patel|2nd Floor|ext-201
+Pediatrics|40|0|Dr. Sunita Agarwal|1st Floor|ext-101
+Oncology|20|0|Dr. Rajiv Bose|5th Floor|ext-501
+Emergency|50|0|Dr. Deepak Tiwari|Ground|ext-001
+General Medicine|45|3|Dr. Ramesh Iyer|1st Floor|ext-102
+Gynecology|30|0|Dr. Lakshmi Reddy|2nd Floor|ext-202
+Dermatology|15|1|Dr. Aisha Khan|3rd Floor|ext-302
+Psychiatry|20|0|Dr. Prashant Bhat|4th Floor|ext-402
+Ophthalmology|10|0|Dr. Samir Kulkarni|3rd Floor|ext-303
+ENT|15|0|Dr. Arun Saxena|2nd Floor|ext-203
+Urology|20|0|Dr. Sunil Chandra|4th Floor|ext-403
+Pulmonology|25|0|Dr. Girish Naik|5th Floor|ext-502
+ICU|15|0|Dr. Rahul Mishra|Ground|ext-002

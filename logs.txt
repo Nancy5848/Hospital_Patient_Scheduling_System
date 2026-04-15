@@ -1,0 +1,7 @@
+[2026-04-09 15:46:12] [ADMITTED] ID:1 | Nancy | Dept:General Medicine | Dr:Dr. Anjali Mehta | Severity:4
+[2026-04-09 15:48:13] [ADMITTED] ID:2 | Lucky | Dept:Emergency | Dr:Dr. Deepak Tiwari | Severity:8
+[2026-04-09 15:49:24] [ADMITTED] ID:3 | Aman | Dept:Dermatology | Dr:Dr. Nisha Bakshi | Severity:1
+[2026-04-09 15:50:30] [UPDATED] ID:2 | Lucky | Dept:ICU | Sev:8
+[2026-04-09 15:52:02] [DISCHARGED] ID:2 | Lucky | ICU
+[2026-04-09 21:32:08] [APPOINTMENT] ApptID:1 | Patient:Aman | Dr:Dr. Sunita Agarwal |  10:00
+[2026-04-09 21:39:10] [DOCTOR_ADDED] ID:1 | Sunil Kashyap | Gynecology

@@ -1,0 +1,3 @@
+1|Nancy|21|Female|7988122236|O+|4|General Medicine|Dr. Anjali Mehta|2026-04-09|Active|Cough and cold
+2|Lucky|23|Female|8765678765|AB+|8|ICU|Dr. Rahul Mishra|2026-04-09|Discharged|Heart Attack
+3|Aman|21|Male|6578987656|B-|1|Dermatology|Dr. Nisha Bakshi|2026-04-09|Active|Skin issue
